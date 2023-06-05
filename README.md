@@ -4,6 +4,7 @@ This tool creates an audio file from a transcript
 # Dependencies
 ## [OpenTTS](https://github.com/synesthesiam/opentts)
 OpenTTS is a popular text to speech server. It's open-sourced and written in python. It's released under the MIT license.
+## [FFMPEG](https://ffmpeg.org/)
 ## Docker/Podman
 - [Docker](https://www.docker.com/)
 - [Podman](https://podman.io/): podman is free, open-source, and an alternative to Docker
